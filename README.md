@@ -11,7 +11,7 @@ This project provides a structured relational database schema for an AI-powered 
 5. **AI Model Integration**: Tracks different AI models, versions, and updates.
 6. **Database Schema**
 
-🏗️The database consists of six tables:
+## 🏗️The database consists of six tables:
 
 1. **Users** – Stores chatbot users.
 2. **Conversations** – Logs chatbot-user conversations.
